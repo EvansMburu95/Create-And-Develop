@@ -1,0 +1,83 @@
+.navbar-default
+{
+    
+border-color: transparent;
+     background-color: rgba(83, 72, 72, 0.5);
+}
+.logo
+{
+    
+color: white;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin: 15px 0 0 10px;
+}
+.navbar-default .navbar-nav li a
+{
+    
+    color: white;
+    font-size: 1.0em;
+  
+}
+.navbar-nav
+{
+    margin: 35px 100px 0px;
+}
+.item h1 
+{
+    padding:20px;
+ font-size: 3.0em;
+    font-weight: 700;
+        margin:0px;
+}
+.btn-default
+{
+    margin: 100px;
+margin-top: 40px;
+}
+p
+{
+    font-size: 1.2em;
+}
+.item h1 p .btn-default{
+    padding:200px 0px;
+}
+.navbar-default .navbar-nav li a:hover
+{
+color:#bdcb52;
+}
+#part2
+{
+    
+    
+    margin:45px;
+}
+.list-group .active
+
+{
+    background-color: gainsboro;
+    border-color:  gainsboro;
+}
+.list-group .active:hover
+
+{
+    background-color: grey;
+    border-color: grey;
+}
+#signin
+{
+    background-color: grey;
+}
+#signin
+{
+    padding: 20px;
+    
+}
+h3
+{
+  
+   padding: 20px 20px 20px 20px;
+    color: white;
+    font-size: 2.0em;
+    font-weight: 500;
+}

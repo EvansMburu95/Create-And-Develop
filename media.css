@@ -1,0 +1,159 @@
+
+@media only screen and (max-width:480px) and (min-width:0px)
+{
+    .well
+    {
+        font-size: 1.2em;
+    }
+    .logo
+    {
+        
+        margin:15px;
+        font-size: 1.0em;
+    }
+    
+    .navbar-nav
+    {
+        margin: 0px;
+        background-color: rgba(0,0,0 0.7);
+    }
+    .navbar-toggle
+    {
+       margin: 20px; 
+    }
+    .item h1 
+    {
+        font-size:1.2em;
+        padding:0px;
+        margin: 1px;
+    }
+    p{
+font-size:0.7em;
+        margin: 0px;
+    }
+    .btn-default
+    {
+        font-size: 0.9em;
+        margin: 0px;
+        padding:5px
+    }
+    .item h1 p .btn-default
+    {
+padding: 100px;
+    }
+    #part2
+    {
+margin: 14px;
+        padding: 20px;
+    }
+   
+}
+@media only screen and (max-width:768px) and (min-width:481px)
+{
+    .logo
+    {
+        margin: 15px;
+    }
+    
+    .navbar-nav
+    {
+        margin: 0px;
+    }
+    .navbar-toggle
+    {
+        
+        margin: 20px;
+    }
+      .item h1 
+    {
+        font-size:2.2em;
+        padding:5px;
+        margin: 5px;
+    }
+    p{
+font-size:0.9em;
+        margin: 10px;
+    }
+    .btn-default
+    {
+        font-size: 0.9em;
+        margin: 10px;
+        padding:10px
+    }
+        #part2
+    {
+
+        padding: 25px;
+    }
+  ssss
+   
+}
+@media only screen and (max-width:960px) and (min-width:769px)
+{
+    
+    
+    .navbar-nav
+    {
+       margin: 35px 100px 0; 
+    }
+    .logo
+    {
+        margin: 15px 0 15px;
+    }
+      .item h1 
+    {
+        font-size:2.6em;
+        padding:5px;
+        margin: 5px;
+    }
+    p{
+font-size:1.0em;
+        margin: 5px;
+    }
+    .btn-default
+    {
+        font-size: 1.0em;
+        
+        padding:10px
+    }
+           #part2
+    {
+padding:30px;
+        margin: 20px;
+    }
+    
+  
+}
+@media only screen and (max-width:1200) and (min-width:961px){
+    .navbar-nav
+    {
+       margin: 35px 100px 0; 
+    }
+    .logo
+    {
+        margin: 15px 0 15px;
+    } 
+          .item h1 
+    {
+        font-size:2.9em;
+        padding:5px;
+        margin: 5px;
+    }
+    p{
+font-size:1.0em;
+        margin: 5px;
+    }
+    .btn-default
+    {
+        font-size: 1.0em;
+        margin: 0px;
+        padding:10px
+    }
+      }
+           #part2
+    {
+margin: 40px;
+
+    }
+
+   
